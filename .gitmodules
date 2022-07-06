@@ -1,0 +1,6 @@
+[submodule "DevOps-App-Frontend"]
+	path = DevOps-App-Frontend
+	url = https://github.com/JSIT-20/DevOps-App-Frontend.git
+[submodule "DevOps-App-Backend"]
+	path = DevOps-App-Backend
+	url = https://github.com/JSIT-20/DevOps-App-Backend.git
